@@ -1,4 +1,4 @@
- <h1 align="center"> Suhail Md </h1> 
+ <h1 align="center"> FordRangerAi </h1> 
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
  
@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://youtube.com/@suhailtechinfo">
-    <img alt="Suhail-Md" height="400" src="/lib/assets/pk.jpg">
+    <img alt="FordRangerAi" height="400" src="/lib/assets/pk.jpg">
   </a>
 </p>
     
@@ -53,7 +53,7 @@
 
 
 
-<p align="center"> Suhail MD whatsapp bot uses
+<p align="center"> FordRangerAi whatsapp bot uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
@@ -151,4 +151,4 @@
 
 
 
-## NOTE: SUHAIL-MD SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS
+## NOTE: FORDRANGERAI SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS
