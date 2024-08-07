@@ -7,7 +7,7 @@
 <h3 align="center"> <a href="https://github.com/SuhailTechInfo/Suhail-Md-Media">🍫 EXTERNAL PLUGINS 🍫</a></h3> 
 
 <h4 align="center"> ✔️ Fixed Heroku Ban! ✔️</h4> 
-
+![Screenshot_20240807-232418_2.png](https://github.com/user-attachments/assets/4b4e0798-723e-43fd-ade0-ce64251d8f3d)
 
 <p align="center">
   <a href="https://youtube.com/@suhailtechinfo">
