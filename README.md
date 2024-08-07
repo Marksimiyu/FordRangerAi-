@@ -1,6 +1,6 @@
  <h1 align="center"> FordRangerAi </h1> 
 <p align="center"> A simple WhatsApp bot with rich features. </p>
-![Screenshot_20240807-232418_2.png](https://github.com/user-attachments/assets/4b4e0798-723e-43fd-ade0-ce64251d8f3d)
+
 
 
  
