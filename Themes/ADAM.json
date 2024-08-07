@@ -1,6 +1,6 @@
 {
 "_JSON_": true,
-"AUTHOR": "SuhailTechInfo",
+"AUTHOR": "FordRangerAi",
 "theme": "Adam",
 "LANGUAGE": "English",
 "LANGCODE": "en", 
@@ -38,8 +38,8 @@
 "permited": "Hii ${tname} Sir*\n\nNow You are permitted by my owner to pm now.\n\nPowered by SuhailTech",
 "revoked" : "Hii ${tname} Sir\n\nYour pm permit permission has been prevoked now.\n\nPowered by SuhailTech",
 "demote": "This is justice!",
-"antlink": "Link Detected.\n*Good Bye Worthless*",
-"session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and Deploy Branch and Bot will run for Always\n\n*𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐁𝐥𝐚𝐜𝐤 𝐀𝐝𝐚𝐦*",
+"antlink": "Antilink detected.\n*Good Bye Worthless*",
+"session": "\n*Hello Sir/Madam👋👋This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and Deploy Branch and Bot will run for Always\n\n*𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐁𝐥𝐚𝐜𝐤 𝐀𝐝𝐚𝐦*",
 "mention": " Please mention any user",
 "title": "Black_Adam-Md",
 "footer": "sᴜʜᴀɪʟ ᴛᴇᴄʜ ɪɴғᴏ \n www.youtube.com/c/SuhailTechInfo",
@@ -51,10 +51,10 @@
 "couple_female": "Put everything in your soulders",
 "admin": "This command is only for Admin⚠️!",
 "botAdmin": "Please provide me Admin Role❗",
-"owner": "This command is Only for my Owner ⚠️",
+"owner": "This command is Only for FordRangerAi Owner ⚠️",
 "group": "This feature is only for Group ❗",
 "private": "This feature is only for Private chats.⚠️",
-"bot": "This feature is only for Bot Number.⚠️",
+"bot": "This feature is only for FordRangerAi Owner Number.⚠️",
 "wait": "*Processing Your Request* ✅"
 },
 "error": {
