@@ -10,10 +10,7 @@
 
 
 
-  <href="https://youtube.com/@suhailtechinfo">
-    <img alt="FordRangerAi" height="400" src="/lib/assets/pk.jpg">
-  </a>
-</p>
+  
     
    
    
