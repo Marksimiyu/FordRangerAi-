@@ -4,9 +4,12 @@
 
 
  
-<h3 align="center"> <a href="https://github.com/SuhailTechInfo/Suhail-Md-Media">🍫 EXTERNAL PLUGINS 🍫</a></h3> 
 
-<h4 align="center"> ✔️ Fixed Heroku Ban! ✔️</h4> 
+
+<h4 align="center"> FordRangerAi is safe on your Whatsapp and Heroku 
+
+
+
 
 
 
